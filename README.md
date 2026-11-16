@@ -3,10 +3,10 @@
 **Live demo:** https://taskflow-managr.netlify.app
 *(Hosted on free tiers: the first load can take about a minute while the backend wakes up.)*
 
-![CI](https://github.com/rahul-chauhan-dev/taskflow-frontend/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/rahulchauhan-it/taskflow-frontend/actions/workflows/ci.yml/badge.svg)
 
 React single-page app for TaskFlow, a project and task manager.
-Backend repository: https://github.com/rahul-chauhan-dev/taskflow-backend
+Backend repository: https://github.com/rahulchauhan-dev/taskflow-backend
 
 ![Login](docs/screenshots/login.png)
 ![Dashboard](docs/screenshots/dashboard.png)
